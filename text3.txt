@@ -2,5 +2,8 @@ hi
 hello
 GIT
 git
+<<<<<<< HEAD
 stashed updates-------
 updates-----------
+=======
+>>>>>>> 2ad7ef5... Revert "update"
