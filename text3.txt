@@ -3,10 +3,16 @@ hello
 GIT
 git
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> Sample-branch_bkp
 stashed updates-------
 updates-----------
 =======
 >>>>>>> 2ad7ef5... Revert "update"
+<<<<<<< HEAD
 >>>>>>> 3c7f5e9649ae1f840073bebc4dde34e157669932
+=======
+>>>>>>> Sample-branch_bkp

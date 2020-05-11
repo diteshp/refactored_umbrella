@@ -2,11 +2,19 @@ just a text file.....
 <<<<<<< HEAD
 addition
 ---Deleted
+<<<<<<< HEAD
 =======
+=======
+
+just a text file.....!
+>>>>>>> Sample-branch_bkp
 
 -addition
 -new additions
 deleting some additions
 -new additions2
 
+<<<<<<< HEAD
 >>>>>>> 3c7f5e9649ae1f840073bebc4dde34e157669932
+=======
+>>>>>>> Sample-branch_bkp
